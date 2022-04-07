@@ -11,4 +11,4 @@ npm start
 ## To do
 - [ ] Integrate [pytrends](https://github.com/GeneralMills/pytrends) somehow
 - [ ] Integrate Docker
-- [ ] Maybe play around a bit with some backend stuff (Springboot, ExpressJS or whatever)
+- [ ] Maybe play around a bit with some backend stuff (Springboot or ExpressJS)
